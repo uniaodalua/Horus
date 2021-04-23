@@ -3,7 +3,7 @@
 Fork modificado de Osiris para CS:GO (https://github.com/danielkrupinski/Osiris)
 GUI mejorada y quitadas las opciones que no se suelen usar
 
-# Se recomienda usar el inyector [SquirrelLoader](https://github.com/holasoyender/SquirrelLoader) y el bypass [VAC-Bypass-Loader](https://github.com/danielkrupinski/VAC-Bypass-Loader)
+## Se recomienda usar el inyector [SquirrelLoader](https://github.com/holasoyender/SquirrelLoader) y el bypass [VAC-Bypass-Loader](https://github.com/danielkrupinski/VAC-Bypass-Loader)
 
 ### Imagenes
 
