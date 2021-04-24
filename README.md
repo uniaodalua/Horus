@@ -14,4 +14,4 @@ Solo he modificado la GUI, se han dejado funciones en desuso que se pueden quita
 
 ![GUI2](https://i.imgur.com/vg9A7lE.png)
 
-Créditos: [danielkrupinski](https://github.com/danielkrupinski) [holasoyender](https://github.com/holasoyender)
+Créditos: [danielkrupinski](https://github.com/danielkrupinski) [holasoyender](https://github.com/holasoyender) y Toad (Nombre)
