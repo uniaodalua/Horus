@@ -6,7 +6,7 @@ GUI mejorada y quitadas las opciones que no se suelen usar
 
 Solo he modificado la GUI, se han dejado funciones en desuso que se pueden quitar. Compilar como Release x86
 
-## Se recomienda usar el inyector [SquirrelLoader](https://github.com/holasoyender/SquirrelLoader) y el bypass [VAC-Bypass-Loader](https://github.com/danielkrupinski/VAC-Bypass-Loader)
+## Se recomienda usar el inyector [SquirrelLoader](https://github.com/holasoyender/SquirrelLoader) y el bypass [VAC-Bypass](https://github.com/holasoyender/VAC-Bypass)
 
 ### Imagenes
 
