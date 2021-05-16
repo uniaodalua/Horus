@@ -1450,6 +1450,7 @@ void GUI::renderGuiStyle2() noexcept
             ImGui::EndTabItem();
         }
         AntiAim::tabItem();
+        Backtrack::tabItem();
         Glow::tabItem();
         if (ImGui::BeginTabItem("ESP")) {
             renderStreamProofESPWindow(true);

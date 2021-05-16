@@ -16,11 +16,11 @@
   MinHook.cpp
   VmtHook.cpp
   VmtSwap.cpp
+C:\Users\javiw\Documents\GitHub\Horus\Osiris\SDK\Surface.h(42,9): warning C4996: 'Surface::getScreenSize': se declaró desusado (compilando archivo de origen Hacks\Visuals.cpp)
   imguiCustom.cpp
   imgui_freetype.cpp
   imgui_stdlib.cpp
   imgui_tables.cpp
-C:\Users\javiw\Desktop\Juegos\CS\esentials SOURCE\Horus\Osiris\SDK\Surface.h(42,9): warning C4996: 'Surface::getScreenSize': se declaró desusado (compilando archivo de origen Hacks\Visuals.cpp)
   InputUtil.cpp
   Netvars.cpp
   Osiris.cpp
@@ -37,9 +37,9 @@ C:\Users\javiw\Desktop\Juegos\CS\esentials SOURCE\Horus\Osiris\SDK\Surface.h(42,
   Entity.cpp
   GlobalVars.cpp
   KeyValues.cpp
-C:\Users\javiw\Desktop\Juegos\CS\esentials SOURCE\Horus\Osiris\SDK\Surface.h(42,9): warning C4996: 'Surface::getScreenSize': se declaró desusado (compilando archivo de origen Hooks.cpp)
   Utils.cpp
   Texture.cpp
+C:\Users\javiw\Documents\GitHub\Horus\Osiris\SDK\Surface.h(42,9): warning C4996: 'Surface::getScreenSize': se declaró desusado (compilando archivo de origen Hooks.cpp)
   autofit.c
   ftbase.c
   ftbitmap.c
@@ -62,8 +62,7 @@ C:\Users\javiw\Desktop\Juegos\CS\esentials SOURCE\Horus\Osiris\SDK\Surface.h(42,
   hook.c
   trampoline.c
   Generando código
-  10851 of 10899 functions (99.6%) were compiled, the rest were copied from previous compilation.
-    132 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB not found, fall back to full compilation.
+  All 10900 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Generación de código finalizada
-  Osiris.vcxproj -> C:\Users\javiw\Desktop\Juegos\CS\esentials SOURCE\Horus\Release\Osiris.dll
+  Osiris.vcxproj -> C:\Users\javiw\Documents\GitHub\Horus\Release\Horus.dll
